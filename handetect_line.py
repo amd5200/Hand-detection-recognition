@@ -191,7 +191,7 @@ if __name__ == '__main__':
     #cascade = cv.Load("palm.xml")
     #cascade = cv.Load("smile.xml")
 
-    capture = cv.CreateCameraCapture(2)                   # camera   NO. 0, 1, 2
+    capture = cv.CreateCameraCapture(0)                   # camera   NO. 0, 1, 2
     print cv.GetCaptureProperty(capture, cv.CV_CAP_PROP_FRAME_WIDTH)
 
     cv.NamedWindow("result", 1)
