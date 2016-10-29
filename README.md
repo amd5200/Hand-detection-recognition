@@ -1,12 +1,12 @@
 # Hand-detection-recognition
-First your system must installed OpenCV
-then:
-sudo apt-get install python-xlib
-sudo apt-get install python-pip 
+First your system must installed OpenCV                                                                                                                               
+then:                                                                                                                                                                        
+sudo apt-get install python-xlib                                                                                                                                  
+sudo apt-get install python-pip                                                                                                                                          
 sudo pip install PyUserInput
 
-then run the handetect_line.py
-sudo python handetect_line.py
+then run the handetect_line.py                                                                                                     
+sudo python handetect_line.py                                                                                                                                       
 have fun ......
 
 
