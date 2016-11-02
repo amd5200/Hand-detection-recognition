@@ -7,7 +7,7 @@ sudo pip install PyUserInput
 
 then run the handetect_line.py                                                                                                     
 sudo python handetect_line.py                                                                                                                                       
-have fun ......                                                                                                                 By the way, Banana Pi's command: "python motoion_hand.py"  do not used "sudo" it will failed.                                    
+have fun ......                                                                                                                                                                                                                                                 By the way, Banana Pi's command: "python motoion_hand.py"  do not used "sudo" it will failed.                                    
 
 video: https://www.youtube.com/watch?v=O1BfhDBFPgg
 
